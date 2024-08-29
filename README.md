@@ -14,3 +14,13 @@ There are 3 apis
 - Ollama must be running in your local. you can check if `http://localhost:11434/` gives `Ollama is running`
 - Install pip libraries `pip install -r requirements.txt`
 - Run `python app.py`
+
+# ScreenShot
+
+<div>
+    <img src="https://github.com/RickyRiko305/Llama3-PDF-RAG-API/blob/main/pic/llama_flask_1.PNG">
+    <br>
+    <img src="https://github.com/RickyRiko305/Llama3-PDF-RAG-API/blob/main/pic/llama_flask_2.PNG">
+    <br>
+    <img src="https://github.com/RickyRiko305/Llama3-PDF-RAG-API/blob/main/pic/llama_flask_3.PNG">
+</div>
